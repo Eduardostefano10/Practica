@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,700&display=swap');
+/* */
+body{font-family: 'Roboto Mono', monospace;}
+
+.bg-degradade{
+  background-image: radial-gradient(circle at 50% -20.71%, #ffef37 0, #fff327 7.14%, #fff619 14.29%, #e8f80f 21.43%, #c9f911 28.57%, #a6f81e 35.71%, #7cf62c 42.86%, #3cf23c 50%, #00ee4d 57.14%, #00ea60 64.29%, #00e574 71.43%, #00e18a 78.57%, #00dea1 85.71%, #00dab9 92.86%, #00d8d2 100%);
+
+}
+.example-card {
+  max-width: 900px;
+  max-height: 500px;
+
+}
+
+section
+{
+  width: 50vw;
+  margin-top: 5rem ;
+}
+
+.section2{
+
+margin-top: 20px;
+}
+.streamlogo{
+  max-width: 270px;
+  border-radius: 50px;
+  margin-left: 60px;
+  transition: all .3s ease-in-out;;
+}
+
+.streamlogo:hover{
+  transform: translate(20px, 0px);
+
+}
+.ro1
+{margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+.o{
+color: white;
+
+
+}
+
+:root {
+  --surface-color: #fff;
+  --curve: 40;
+}
+
+* {
+  box-sizing: border-box;
+}
+
